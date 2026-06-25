@@ -10,7 +10,7 @@ The underlying Luminate data are proprietary and are therefore not included. The
 
 ### `Model Diagnostics and Robustness.docx`
 
-Provides the supplementary discussion of the prior predictive check, posterior predictive check and robustness assessment. This repository includes the document and the files associated with its prior and posterior predictive checks. Separate output files from the additional robustness refits are not included.
+Provides the supplementary discussion of the prior predictive check, posterior predictive check and robustness assessment. This repository includes the document and the files associated with its prior and posterior predictive checks.
 
 ### `Prior_predictive.py`
 
